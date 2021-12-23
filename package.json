@@ -1,0 +1,20 @@
+{
+  "name": "hexlet_project_education",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Учебный проект на Хекслет",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zakharovdm/hexlet-js.git"
+  },
+  "author": "Dmitriy Zakharov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zakharovdm/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/zakharovdm/hexlet-js#readme"
+}
